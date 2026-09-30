@@ -2,7 +2,7 @@
 
 **Good things come to the fam.** A launchpad on Robinhood Chain where every trade gives back to the fam, every hour.
 
-[famdotfun.com](https://famdotfun.com) · [Docs](https://famdotfun.com/docs) · [Whitepaper](https://famdotfun.com/whitepaper) · [X](https://x.com/famdotfun)
+[famdotfun.com](https://famdotfun.com) · [Docs](https://famdotfun.com/docs) · [API](https://famdotfun.com/docs/api) · [Whitepaper](https://famdotfun.com/whitepaper) · [X](https://x.com/famdotfun)
 
 ## How the money moves
 
@@ -18,6 +18,8 @@ Every trade pays 1%.
 When a coin graduates, 90% of what it raised goes into a pool that stays locked forever. The other 10% pays the creator a bonus and feeds the burn clock, which buys $FAM and burns it.
 
 The full rules, drawn to scale, are in the [docs](https://famdotfun.com/docs).
+
+Every coin, trade, candle and holder is also served as JSON by the public read API at `https://api.famdotfun.com`, with no key. How to use it: [famdotfun.com/docs/api](https://famdotfun.com/docs/api).
 
 ## Contracts on Robinhood Chain (chain id 4663)
 
